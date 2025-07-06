@@ -1,4 +1,4 @@
-# Line Following Car (Arduino)
+# Line Following Car (Arduino) 
 
 This project is a basic line-following robot built using an Arduino and IR sensors for a EEE course of mine. It is capable of tracking a black line on a white surface using three sensors, and can make precise turns based on sensor input. The logic includes recovery U-turns and different motion profiles like sharp turns and curved paths.
 

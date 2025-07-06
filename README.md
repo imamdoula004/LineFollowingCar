@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See `LICENSE` file for more deta
 
 **Imam**  
 Computer Science & Engineering Student | Explorer | Builder  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/imam-ud-doula) • [GitHub](https://github.com/imamdoula004)
 
 ---
 
